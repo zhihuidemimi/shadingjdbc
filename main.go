@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("please enter your password:")
+	fmt.Println("Please enter your password:")
 	var password string
 	//fmt.Scanf("%s", &password)
 	fmt.scan("*", &password)
